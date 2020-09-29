@@ -31,11 +31,11 @@ The code stub reads from stdin and passes the appropriate argument to your funct
 
 Constraints
 
+ 0 <= list size <= 1000
+
 Sample Input
 
-References to each of the following linked lists are passed as arguments to your function:
-
-Sample Inputs
+References to each of the following linked lists are passed as arguments to your function.
 
 Sample Output
 
